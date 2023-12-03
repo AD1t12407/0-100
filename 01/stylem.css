@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar {
+    background-color: #ffffff;
+    padding: 0 10px; /* Add appropriate units (e.g., pixels) after the values */
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid rgb(226, 224, 224); /* Specify border style */
+    box-shadow: 2px 1px 2px rgb(128, 128, 128)6a6; /* Remove the extra semicolon at the end */
+}
+
+.nav-contents a {
+    color: rgb(130, 128, 128);
+    margin: 0 10px;
+    text-decoration: none;
+    justify-content:flex-end;
+    padding: 20px;
+   
+
+}
+
+.nav-contents a:hover {
+   color: rgb(0, 140, 255);
+}
+
+.hero-section {
+    position: center;
+    
+}
+
+.hero-content {
+    position:center;
+    color: grey;
+    text-align: center;
+}
+
+button {
+    background-color: rgb(76, 157, 175);
+    color: white;
+    padding: 10px 20px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 7px;
+}
+
+button:hover {
+    background-color: #000000;
+}
