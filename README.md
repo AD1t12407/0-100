@@ -1,5 +1,5 @@
-## Week 0
-# Zerodha-landing page
+# Week 0
+## Zerodha-landing page
 o-100
-## Week 1
-# js fundamentals
+#Week 1
+## js fundamentals
