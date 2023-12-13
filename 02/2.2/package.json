@@ -1,0 +1,23 @@
+{
+  "name": "0-100",
+  "version": "1.0.0",
+  "description": "o-100 # Week 1 ## js fundamentals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AD1t12407/0-100.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AD1t12407/0-100/issues"
+  },
+  "homepage": "https://github.com/AD1t12407/0-100#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
